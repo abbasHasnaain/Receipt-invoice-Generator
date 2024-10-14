@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'NexaBold';
+    src: url('assets/fonts/nexa/NexaBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaBoldItalic';
+    src: url('assets/fonts/nexa/NexaBoldItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaLight';
+    src: url('assets/fonts/nexa/NexaLight.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaLightItalic';
+    src: url('assets/fonts/nexa/NexaLightItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRegular';
+    src: url('assets/fonts/nexa/NexaRegular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRegularItalic';
+    src: url('assets/fonts/nexa/NexaRegularItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaBlack';
+    src: url('assets/fonts/nexa/NexaBlack.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaBlackItalic';
+    src: url('assets/fonts/nexa/NexaBlackItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaBook';
+    src: url('assets/fonts/nexa/NexaBook.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaBookItalic';
+    src: url('assets/fonts/nexa/NexaBookItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaHeavy';
+    src: url('assets/fonts/nexa/NexaHeavy.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaHeavyItalic';
+    src: url('assets/fonts/nexa/NexaHeavyItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaThin';
+    src: url('assets/fonts/nexa/NexaThin.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaThinItalic';
+    src: url('assets/fonts/nexa/NexaThinItalic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRustExtras-Free';
+    src: url('assets/fonts/nexa/NexaRustExtras-Free.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRustHandmade';
+    src: url('assets/fonts/nexa/NexaRustHandmade.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRustSans-Black';
+    src: url('assets/fonts/nexa/NexaRustSans-Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRustSans-BlackShadow';
+    src: url('assets/fonts/nexa/NexaRustSans-BlackShadow.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRustScriptL-0';
+    src: url('assets/fonts/nexa/NexaRustScriptL-0.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaRustSlab-BlackShadow';
+    src: url('assets/fonts/nexa/NexaRustSlab-BlackShadow.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaXBold';
+    src: url('assets/fonts/nexa/NexaXBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NexaXBoldItalic';
+    src: url('assets/fonts/nexa/NexaXBoldItalic.otf') format('opentype');
+}
